@@ -1,4 +1,4 @@
- import speech_recognition as sr
+import speech_recognition as sr
 # Record Audio
 r = sr.Recognizer()
 r.pause_threshold = 1.0
